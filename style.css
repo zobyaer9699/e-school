@@ -1,0 +1,232 @@
+.header_area{
+    background: #F0FFF0;
+    padding: 20px 0;
+
+
+}
+.logo_area img{
+    width:100%;
+}
+.sign_btn{
+    background: #21B573;
+    border-radius: 17px;
+    font-size: 15px;
+    padding: 7px 18px !important;
+    color: white !important;
+}
+.nav_section a{
+    font-size: 14px;
+    margin: 0px 12px;
+    color: #000000;
+    font-weight: 600;
+    
+
+}
+.photo_section a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.mn_pto img{
+    width: 100%;
+}
+.cntn_prt p{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+width: 340px;
+color: #6C6B6B;
+
+}
+.cntn_prt h6{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color:red;
+margin-bottom: 0;
+}
+.onno_clr_kro{
+    color: #21B573;
+}
+.cntn_prt h2{
+    font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.photo_section{
+ margin-top: 50px;
+}
+/* card section  */
+.card_section{
+    margin: 30px 0;
+}
+.card_section img{
+    width: 20%;
+}
+.card_section h5{
+    font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color:#585859;
+text-align: center;
+
+
+
+}
+.card_section p{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color:#585859;
+text-align: center;
+
+}
+.card_section .card{
+    padding: 40px 0px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.c1, .c2, .c4 {
+    background: #F8FFFB;
+
+}
+.c4 img{
+    width:18%;
+}
+.c1 img{
+    width:17%;
+}
+.card-footer{
+    background-color:inherit;
+    border-top: none;
+}
+/* online clas section*/
+.online_crs img{
+   padding: 16px;
+}
+.online_crs h3{
+    text-align: center;
+    font-weight: 700;
+    color: #413960;
+
+}
+.fr_margn{
+ margin: 30px 0;
+}
+.online_crs .card{
+    border: none;
+    box-shadow: 7px 7px 15px lightgray;
+    border-radius: 16px;
+}
+.online_crs a{
+    text-decoration: none;
+    font-weight: 600;
+}
+.online_crs .col:nth-child(1){
+    padding-left: 0;
+}
+.online_crs .col:nth-child(3){
+    padding-right: 0;
+}
+
+/* testimonial section*/
+.Testimonial img{
+    width:100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    left: 370px;
+}
+.Testimonial p{
+    font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+width: 70%;
+
+}
+.Testimonial h2{
+    text-align: center;
+    font-weight: 700;
+}
+.fr_mrgn{
+    margin-top: 30px;
+}
+.Testimonial{
+    margin: 40px 0;
+}
+.last li{
+    list-style: none;
+    color:lightgrey;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.last li h5{
+    
+    color:#FFFFFF
+    
+}
+.last p{
+    list-style: none;
+    color:lightgrey;
+    font-size: 15px;
+    width: 90%;
+    
+}
+/* footer section*/
+footer{
+    background: #282531;
+
+}
+.ftr_lst{
+    color:lightgrey;
+    
+    /* margin: auto; */
+}
+.at_the_end p{
+    text-align: center;
+    margin: auto;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    
+
+}
+.fr_padding_bottom{
+    padding-bottom: 30px;
+}
+.last{
+    padding: 30px;
+}
